@@ -1,0 +1,29 @@
+html, body {
+  ma: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+
+button{
+  background: #bad9bc;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  border-color: none;
+  transition: 0.3s;
+}
+
+input{
+  width:200px;
+  height:40px;
+  border-color: none;
+  
+}
+
+button:hover{
+  background: #6d946f;
+  color: white;
+}
